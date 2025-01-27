@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alexeytra
-- 👀 I’m interested in programming, languages and AI
+- 👋 Hi, I’m @atrapeznikov
+- 👀 I’m interested in programming, languages (english, spanish and so on) and AI
 - 🌱 I’m currently learning how to sleep properly
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on ... I don't know
 - 📫 How to reach me alekseytra@gmail.com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/alekseytra?ext=heatmap)
